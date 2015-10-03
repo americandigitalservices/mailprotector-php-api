@@ -1,0 +1,3 @@
+[submodule "mailprotector-api"]
+	path = mailprotector-api
+	url = git@github.com:virtualconnect/mailprotector-api.git
